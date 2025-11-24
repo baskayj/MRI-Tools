@@ -1,0 +1,25 @@
+# Medical Imaging Tools - Dependencies
+# Core dependencies shared across all tools
+
+# Image processing and file I/O
+nibabel
+numpy
+scipy
+
+# Progress and user interface
+tqdm
+
+# Registration tool dependencies
+dipy
+matplotlib
+
+# Fractal analysis tool dependencies
+pandas
+seaborn
+
+# Optional: Enhanced functionality
+# fury          # For 3D visualization in registration tool
+SimpleITK     # Alternative registration methods
+
+# Jupter
+notebook
