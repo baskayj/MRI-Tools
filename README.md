@@ -90,3 +90,13 @@ mri-tools/
 | **Patient anonymization** | **Anonimize.ijm** | **Manual face cutting** |
 | **NIFTI compression** | **SaveAsNiiGz.ijm** | **Command line gzip** |
 | **Interactive NIFTI export** | **SaveAsNiiGz.ijm** | **Manual conversion** |
+
+# Citation
+
+If you use our tools in your research, please cite:
+
+```
+Markia, B., Mezei, T., Báskay, J. et al. Consistency and grade prediction of 
+intracranial meningiomas based on fractal geometry analysis. Neurosurg Rev 48, 
+598 (2025). https://doi.org/10.1007/s10143-025-03737-1
+```
